@@ -13,7 +13,11 @@ Utilizo mis conocimientos de programación para crear una función que se ejecut
 #Preview 
 
 
-<img src="assets/mockup github portatil.png" alt="Imagen 1" width="300"> <img src="assets/mockup github movil.png" alt="Imagen 2" width="300">
+<div align="center">
+  <img src="assets/mockup github portatil.png" alt="Imagen 1" width="300">
+  <img src="assets/mockup github movil.png" alt="Imagen 2" width="300">
+</div>
+
 
 
 
