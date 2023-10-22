@@ -5,7 +5,7 @@ function searchUserGitHub() {
     axios.get(url)
         .then(response => {
             const data = response.data;
-            const nombreUsuario = data.name || "No disponible";
+            const nombreUsuario = data.name || "Not available";
             const numRepos = data.public_repos || 0;
             const avatarURL = data.avatar_url || "";
 
