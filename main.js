@@ -1,15 +1,14 @@
 function searchUserGitHub() {
     const username = document.getElementById("usernameInput").value;
-    const url = `https://api.github.com/users/${username}`;
 
     axios.get(`https://api.github.com/users/${username}`)
         .then(res => {
             const data = res.data;
-            const nombreUsuario = data.name || "Not available";
+            const UserName = data.name || "Not available";
             const numRepos = data.public_repos || 0;
             const avatarURL = data.avatar_url || "";
 
-            document.getElementById("userName").textContent = nombreUsuario;
+            document.getElementById("userName").textContent = UserName;
             document.getElementById("numRepos").textContent = numRepos;
             document.getElementById("userAvatar").src = avatarURL;
         })
