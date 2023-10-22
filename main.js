@@ -1,7 +1,7 @@
 function searchUserGitHub() {
     const username = document.getElementById("usernameInput").value;
 
-    axios.get(`https://api.github.com/users/${username}`)
+    axios.get("https://docs.github.com/rest/users/users#get-a-user")
         .then(res => {
             const data = res.data;
             const UserName = data.name || "Not available";
