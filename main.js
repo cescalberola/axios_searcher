@@ -13,7 +13,7 @@ function searchUserGitHub() {
             document.getElementById("userAvatar").src = avatarURL;
         })
         .catch(error => {
-            console.error("Error al buscar el usuario:", error);
-            alert("Usuario no encontrado");
+            console.error("Error when searching for the user:", error);
+            alert("User not found");
         });
 }
