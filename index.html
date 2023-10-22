@@ -7,15 +7,16 @@
     <title>Axios Searcher</title>
 </head>
 <body>
-    <h1>Buscar Usuario de GitHub</h1>
-    <input type="text" id="usernameInput" placeholder="Nombre de usuario de GitHub">
-    <button onclick="buscarUsuarioGitHub()">Buscar</button>
-
+    <h1>Search GitHub User</h1>
+    <div class="inputClass">
+        <input type="text" id="usernameInput" placeholder="GitHub username">
+        <button onclick="searchUserGitHub()">Search</button>
+    </div> 
     <div id="userInfo">
-        <h2>Información del Usuario</h2>
-        <p><strong>Nombre:</strong> <span id="nombreUsuario"></span></p>
-        <p><strong>Número de Repositorios:</strong> <span id="numRepos"></span></p>
-        <p><strong>Avatar:</strong> <img id="avatarUsuario" src="/assets/GitHub-Logo.wine.svg" alt="Avatar"></p>
+        <h2>User Info</h2>
+        <p><strong>Name:</strong> <span id="userName"></span></p>
+        <p><strong>Number of Repositories:</strong> <span id="numRepos"></span></p>
+        <p><strong>Avatar:<br></strong> <img id="userAvatar" src="assets/GitHub-Logo.wine.png"></p>
     </div>
 
     <script src="https://cdn.jsdelivr.net/npm/axios/dist/axios.min.js"></script>

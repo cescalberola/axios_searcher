@@ -1,4 +1,4 @@
-function buscarUsuarioGitHub() {
+function searchUserGitHub() {
     const username = document.getElementById("usernameInput").value;
     const url = `https://api.github.com/users/${username}`;
 
@@ -9,12 +9,12 @@ function buscarUsuarioGitHub() {
             const numRepos = data.public_repos || 0;
             const avatarURL = data.avatar_url || "";
 
-            document.getElementById("nombreUsuario").textContent = nombreUsuario;
+            document.getElementById("userName").textContent = nombreUsuario;
             document.getElementById("numRepos").textContent = numRepos;
-            document.getElementById("avatarUsuario").src = avatarURL;
+            document.getElementById("userAvatar").src = avatarURL;
         })
         .catch(error => {
             console.error("Error al buscar el usuario:", error);
-            alert("Usuario no encontrado o error en la solicitud.");
+            alert("Usuario no encontrado");
         });
 }
