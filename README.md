@@ -14,15 +14,16 @@ Utilizo mis conocimientos de programación para crear una función que se ejecut
 
 <table>
   <tr>
-    <td align="center"><img src="imagen1.png" width="200"></td>
-    <td align="center"><img src="imagen2.png" width="200"></td>
+    <td align="center"><img src="assets/mockup github portatil.png" width="200"></td>
+    <td align="center"><img src="assets/mockup github movil.png" width="200"></td>
   </tr>
 </table>
 
 
 # Créditos
 
-Este proyecto fue desarrollado por Francesc.
+Este proyecto fue desarrollado por [Francesc](https://www.linkedin.com/in/francescalberola/)
+
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" alt="HTML">
