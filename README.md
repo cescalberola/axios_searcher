@@ -14,11 +14,11 @@ Utilizo mis conocimientos de programación para crear una función que se ejecut
 
 
 <div style="display: flex; flex-direction: row;">
-  <div style="flex: 1; padding: 10px;">
-    <img src="assets/mockup github portatil.png" alt="Imagen 1" width="200">
+  <div style="flex: 2; padding: 10px;">
+    <img src="assets/mockup github portatil.png" alt="Imagen 1" width="400">
   </div>
-  <div style="flex: 1; padding: 10px;">
-    <img src="assets/mockup github movil.png" alt="Imagen 2" width="200">
+  <div style="flex: 2; padding: 10px;">
+    <img src="assets/mockup github movil.png" alt="Imagen 2" width="400">
   </div>
 </div>
 
