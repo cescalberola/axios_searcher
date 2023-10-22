@@ -1,25 +1,25 @@
-# Explorando la API de GitHub 🚀
+# Exploring the GitHub API 🚀
 
-En este proyecto, estoy explorando la API de usuarios de GitHub. Utilizo la siguiente URL para acceder a información detallada de usuarios específicos en GitHub: `https://api.github.com/users/{username}`. 
+In this project, I'm exploring the GitHub users API. I use the following URL to access detailed information about specific users on GitHub: `https://api.github.com/users/{username}`.
 
-# Creación de una Interfaz Interactiva 🖥️
+# Creating an Interactive Interface 🖥️
 
-Estoy aplicando mis habilidades para desarrollar una interfaz de usuario interactiva. Esta interfaz consta de un campo de texto y un botón de búsqueda. Los usuarios pueden introducir el nombre de usuario de GitHub que deseen consultar en el campo de texto.
+I'm applying my skills to develop an interactive user interface. This interface consists of a text field and a search button. Users can enter the GitHub username they want to look up in the text field.
 
-# Realización de Peticiones a la API 🌐
+# Making API Requests 🌐
 
-Utilizo mis conocimientos de programación para crear una función que se ejecuta al presionar el botón "Buscar". Esta función realiza una solicitud a la API de GitHub para obtener información detallada del usuario seleccionado y la presenta en la página web. Los datos que muestro por consola incluyen el nombre, el número de repositorios y el avatar del usuario.
+I use my programming knowledge to create a function that runs when the "Search" button is pressed. This function makes a request to the GitHub API to retrieve detailed information about the selected user and displays it on the web page. The data I display in the console includes the name, the number of repositories, and the user's avatar.
 
-# Vista Previa 📸
+# Preview 📸
 
 <div align="center">
-  <img src="assets/mockup github portatil.png" alt="Imagen 1" width="400">
-  <img src="assets/mockup github movil.png" alt="Imagen 2" width="400">
+  <img src="assets/mockup github laptop.png" width="400">
+  <img src="assets/mockup github mobile.png" width="400">
 </div>
 
-# Créditos 👏
+# Credits 👏
 
-Este proyecto fue desarrollado por [Francesc](https://www.linkedin.com/in/francescalberola/)
+This project was developed by [Francesc](https://www.linkedin.com/in/francescalberola/)
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="30" alt="HTML">
