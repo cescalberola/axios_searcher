@@ -13,8 +13,8 @@ I use my programming knowledge to create a function that runs when the "Search" 
 # Preview 📸
 
 <div align="center">
-  <img src="assets/mockup github laptop.png" width="400">
-  <img src="assets/mockup github mobile.png" width="400">
+  <img src="assets/mockup github portatil.png" width="400">
+  <img src="assets/mockup github movil.png" width="400">
 </div>
 
 # Credits 👏
