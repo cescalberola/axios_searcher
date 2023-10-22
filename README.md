@@ -13,7 +13,8 @@ Utilizo mis conocimientos de programación para crear una función que se ejecut
 #Preview 
 
 
-![Imagen 1](assets/mockup%20github%20portatil.png) ![Imagen 2](assets/mockup%20github%20movil.png)
+<img src="assets/mockup github portatil.png" alt="Imagen 1" width="300"> <img src="assets/mockup github movil.png" alt="Imagen 2" width="300">
+
 
 
 # Créditos
