@@ -13,14 +13,7 @@ Utilizo mis conocimientos de programación para crear una función que se ejecut
 #Preview 
 
 
-<div style="display: flex; flex-direction: row;">
-  <div style="flex: 2; padding: 10px;">
-    <img src="assets/mockup github portatil.png" alt="Imagen 1" width="400">
-  </div>
-  <div style="flex: 2; padding: 10px;">
-    <img src="assets/mockup github movil.png" alt="Imagen 2" width="400">
-  </div>
-</div>
+![Imagen 1](assets/mockup%20github%20portatil.png) ![Imagen 2](assets/mockup%20github%20movil.png)
 
 
 # Créditos
