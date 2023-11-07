@@ -17,8 +17,6 @@ I use my programming knowledge to create a function that runs when the "Search" 
   <img src="assets/mockup github movil.png" width="400">
 </div>
 
-# Credits 👏
-
 This project was developed by [Francesc](https://www.linkedin.com/in/francescalberola/)
 
 <p align="center">
